@@ -1,1 +1,43 @@
-AtOffer
+
+
+***
+##
+
+| ID   |                  Title                   |    code |
+| :---------: | :----------: | :------------------------------: | 
+| 03   | 二维数组中的查找                  |       [链接]( https://github.com/icrn/Algorithm/Demo03)
+| 04   | 替换空格                  |       [链接]( https://github.com/icrn/Algorithm/Demo04)
+| 05   | 从尾到头打印链表                  |       [链接]( https://github.com/icrn/Algorithm/Demo05)
+| 06   | 重建二叉树                  |       [链接]( https://github.com/icrn/Algorithm/Demo06)
+| 07   | 用两个栈实现队列                  |       [链接]( https://github.com/icrn/Algorithm/Demo07)
+| 08   | 旋转数组的最小数字                  |       [链接]( https://github.com/icrn/Algorithm/Demo08)
+| 09   | 斐波那契数列                  |       [链接]( https://github.com/icrn/Algorithm/Demo09)
+| 10   | 二进制中1的个数                  |       [链接]( https://github.com/icrn/Algorithm/Demo10)
+| 11   | 数值的整数次方                  |       [链接]( https://github.com/icrn/Algorithm/Demo11)
+| 14   | 调整数组顺序使奇数位于偶数前面                  |       [链接]( https://github.com/icrn/Algorithm/Demo14)
+| 15   | 链表中倒数第k个结点                  |       [链接]( https://github.com/icrn/Algorithm/Demo15)
+| 16   | 反转链表                  |       [链接]( https://github.com/icrn/Algorithm/Demo16)
+| 17   | 合并两个排序的链表                  |       [链接]( https://github.com/icrn/Algorithm/Demo17)
+| 18   | 树的子结构                  |       [链接]( https://github.com/icrn/Algorithm/Demo18)
+| 19   | 二叉树的镜像                  |       [链接]( https://github.com/icrn/Algorithm/Demo19)
+| 20   | 顺时针打印矩阵                  |       [链接]( https://github.com/icrn/Algorithm/Demo20)
+| 21   | 包含min函数的栈                  |       [链接]( https://github.com/icrn/Algorithm/Demo21)
+| 22   | 栈的压入、弹出序列                  |       [链接]( https://github.com/icrn/Algorithm/Demo22)
+| 23   | 从上往下打印二叉树                  |       [链接]( https://github.com/icrn/Algorithm/Demo23)
+| 24   | 二叉搜索树的后序遍历序列                  |       [链接]( https://github.com/icrn/Algorithm/Demo24)
+| 25   | 二叉树中和为某一值的路径                  |       [链接]( https://github.com/icrn/Algorithm/Demo25)
+| 26   | 复杂链表的复制                  |       [链接]( https://github.com/icrn/Algorithm/Demo26)
+| 27   | 二叉搜索树与双向链表                  |       [链接]( https://github.com/icrn/Algorithm/Demo27)
+| 28   | 字符串的排列                  |       [链接]( https://github.com/icrn/Algorithm/Demo28)
+| 29   | 数组中出现次数超过一半的数字                  |       [链接]( https://github.com/icrn/Algorithm/Demo29)
+| 30   | 最小的K个数                  |       [链接]( https://github.com/icrn/Algorithm/Demo30)
+| 31   | 连续子数组的最大和                  |       [链接]( https://github.com/icrn/Algorithm/Demo31)
+| 32   | 整数中1出现的次数                  |       [链接]( https://github.com/icrn/Algorithm/Demo32)
+| 33   | 把数组排成最小的数                  |       [链接]( https://github.com/icrn/Algorithm/Demo33)
+| 34   | 丑数                  |       [链接]( https://github.com/icrn/Algorithm/Demo34)
+| 35   | 第一个只出现一次的字符                  |       [链接]( https://github.com/icrn/Algorithm/Demo35)
+| 36   | 数组中的逆序对                  |       [链接]( https://github.com/icrn/Algorithm/Demo36)
+| 37   | 两个链表的第一个公共结点                  |       [链接]( https://github.com/icrn/Algorithm/Demo37)
+| 38   | 数字在排序数组中出现的次数                  |       [链接]( https://github.com/icrn/Algorithm/Demo38)
+| 39   | 二叉树的深度                  |       [链接]( https://github.com/icrn/Algorithm/Demo39)
+| 44   | 扑克牌顺子                  |       [链接](https://github.com/icrn/Algorithm/Demo44)
