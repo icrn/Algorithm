@@ -1,7 +1,6 @@
 
-[个人简历](https://icrn.github.io/about/)
-[个人博客](https://www.cnblogs.com/yankang/)
-
+* [个人简历](https://icrn.github.io/about/)
+* [个人博客](https://www.cnblogs.com/yankang/)
 
 
 
@@ -36,7 +35,7 @@
 | 20   | 顺时针打印矩阵                  |       [链接]( https://github.com/icrn/Algorithm/tree/master/src/main/java/cn/icrn/Demo20)    | Done
 | 21   | 包含min函数的栈                  |       [链接]( https://github.com/icrn/Algorithm/tree/master/src/main/java/cn/icrn/Demo21)    | Done
 | 22   | 栈的压入、弹出序列                  |       [链接]( https://github.com/icrn/Algorithm/tree/master/src/main/java/cn/icrn/Demo22)    | Done
-| 23   | 从上往下打印二叉树                  |       [链接]( https://github.com/icrn/Algorithm/tree/master/src/main/java/cn/icrn/Demo23)    | Done
+| 23   | 从上往下打印二叉树                  |       [链接]( https://github.com/icrn/Algorithm/tree/master/src/main/java/cn/icrn/Demo23)    | Done 
 | 24   | 二叉搜索树的后序遍历序列                  |       [链接]( https://github.com/icrn/Algorithm/tree/master/src/main/java/cn/icrn/Demo24)    | Done
 | 25   | 二叉树中和为某一值的路径                  |       [链接]( https://github.com/icrn/Algorithm/tree/master/src/main/java/cn/icrn/Demo25)    | Done
 | 26   | 复杂链表的复制                  |       [链接]( https://github.com/icrn/Algorithm/tree/master/src/main/java/cn/icrn/Demo26)    | Done
