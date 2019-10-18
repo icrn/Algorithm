@@ -1,10 +1,4 @@
 
-* [个人简历](https://icrn.github.io/about/)
-* [个人博客](https://www.cnblogs.com/yankang/)
-
-
-
-
 
 毕业时候刷剑指offer的一些代码，近期有空整理一下。后面刷题再添加一些新的内容……（挖坑）
 
